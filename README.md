@@ -10,7 +10,11 @@ Find the full speaker lineup and schedule and register on the [Powerful Devs Con
 As a special thank you for participating in the Powerful Devs Conference, we'd like to gift you event branded Teams backgrounds for desktop, Android, or iPhone. In addition, you can also download a branded LinkedIn cover and Twitter header. Share your excitement for this event and download this free swag today to use whenever you'd like!
 
 
-# Join the Powerful Devs Conference Cloud Skills Challenge
+# Participate in the Cloud Skills Challenge
 
 Put your skills to the test and get your name on the Powerful Devs Conference leaderboard! Learn about fusion development teams, low-code concepts for professional developers, and how a professional developer can enable their citizen developer counterparts to build amazing Power Apps applications. The Challenge begins September 14 and runs through October 14.
 [Take The Challenge](https://aka.ms/PowerfulDevs21CSC)!
+
+# Unable to attend live?
+
+No worries! The recording will be made available shortly after September 14th. [Watch on-demand](https://aka.ms/PowerfulDevsConf21OnDemand) and find more great content on Channel 9. You can also discover more helpful learning resources for the Powerful Devs Conference on the [event page](https://aka.ms/PowerfulDevsConf21).
