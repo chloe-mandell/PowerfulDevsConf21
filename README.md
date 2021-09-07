@@ -5,6 +5,11 @@ Not every application that a professional developer builds should be code first.
 
 Find the full speaker lineup and schedule and register on the [Powerful Devs Conference website](https://aka.ms/PowerfulDevsConf21).
 
+# Virtual Swag!
+
+As a special thank you for participating in the Powerful Devs Conference, we'd like to gift you event branded Teams backgrounds for desktop, Android, or iPhone. In addition, you can also download a branded LinkedIn cover and Twitter header. Share your excitement for this event and download this free swag today to use whenever you'd like!
+
+
 # Join the Powerful Devs Conference Cloud Skills Challenge
 
 Put your skills to the test and get your name on the Powerful Devs Conference leaderboard! The Challenge begins September 14 and runs through October 14.
