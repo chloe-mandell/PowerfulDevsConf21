@@ -1,5 +1,5 @@
 # Powerful Devs Conference 
-## September 14, 2021 | 8:00am-11:30am PT
+### September 14, 2021 | 8:00am-11:30am PT
 
 Not every application that a professional developer builds should be code first. The Powerful Devs Conference will showcase how developers can embrace fusion development teams and leverage the Power Platform to build applications faster and with far less effort. Connect with industry-recognized ProDev influencers, Microsoft Cloud Advocates, trusted and diverse community leaders, and members of the Power Platform Team.
 
