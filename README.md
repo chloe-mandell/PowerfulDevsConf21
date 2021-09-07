@@ -17,4 +17,4 @@ Put your skills to the test and get your name on the Powerful Devs Conference le
 
 # Unable to attend live?
 
-No worries! The recording will be made available shortly after September 14th. [Watch on-demand](https://aka.ms/PowerfulDevsConf21OnDemand) and find more great content on Channel 9. You can also discover more helpful learning resources for the Powerful Devs Conference on the [event page](https://aka.ms/PowerfulDevsConf21).
+No worries! The event is being recorded and will be made available shortly after September 14th. [Watch on-demand](https://aka.ms/PowerfulDevsConf21OnDemand) and find more great content on Channel 9. You can also discover helpful learning resources for the Powerful Devs Conference on the [event page](https://aka.ms/PowerfulDevsConf21).
